@@ -1,0 +1,43 @@
+h3,h2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    padding: 30px;
+    font-size: 27px;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 45px;
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: separate;
+    border-spacing: 0;
+    border-radius: 15px;
+}
+
+th{
+    background-color: #55b158;
+    color: white;
+    padding: 20px;
+    font-size: 1.2rem;
+    border-radius: 15px 15px 0 0;
+}
+
+td{
+    padding: 15px;
+    border: 1px solid black;
+    font-size: 1.2rem;
+}
+
+/*tr:last-child td{
+    border-bottom: 0;
+}*/
+
+marquee{
+    font-size: 1.5rem;
+    color: #17191b;
+    font-weight: bold;
+}
+
